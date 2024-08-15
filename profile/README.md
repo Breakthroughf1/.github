@@ -53,5 +53,5 @@ We welcome contributions to enhance our offerings. If you have suggestions or im
 
 ## Footer
 
-© {new Date().getFullYear()} Breakthrough Pvt Ltd. All rights reserved.
+© .2024 Breakthrough Pvt Ltd. All rights reserved.
 
