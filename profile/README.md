@@ -45,7 +45,7 @@ At **BreakthroughF1 LLP**, we are catalysts for transformative change. Our missi
 **Let’s Build the Future Together**  
 
 - **📍 Address**: Tower C, Prestige Tech Park, Sarjapur Road, Bangalore 560103  
-- **📧 Email**: [innovation@breakthrough.ind.in(mailto:innovation@breakthrough.ind.in)  
+- **📧 Email**: [innovation@breakthrough.ind.in](mailto:innovation@breakthrough.ind.in)
 - **📞 Phone**: +91 6238765740
 
 ---
